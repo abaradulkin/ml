@@ -1,0 +1,10 @@
+accelerate
+datasets
+gensim
+kagglehub
+numpy
+pandas
+scikit-learn
+sentencepiece
+skipy
+transformers
